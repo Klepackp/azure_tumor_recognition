@@ -14,6 +14,9 @@ storzenia apliacjkacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten 
 
 ![Image](images/use_case_diagram.png)
 
+Użytkownik wchodzi na stronę internetową. Następnie wgrywa obraz, który podlega klasyfikacji. Wynik klasyfikacji zwrócony zostaje na stronie internetowej w postaci 
+stwierdzenia nowotowru lub jego braku.
+
 
 ## Azure Machine Learning 
 
