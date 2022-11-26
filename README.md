@@ -3,7 +3,7 @@ Projekt wykonany w ramach przedmiotu Wprowadzenie do aplikacji i rozwiązań opa
 
 # Opis 
 Niewątpliwie każdy wie jak ważna dziedziną jest medycyna. Wspieranie jej stałego rozwoju to troska o zdrowie każdego człowieka. Z tą myślą podjęliśmy próbę 
-storzenia apliacjkacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten proces oraz zapewniać jego niezawodność.
+stworzenia aplikacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten proces oraz zapewniać jego niezawodność.
 
 # Autorzy: 
 * Lidia Łachman
