@@ -45,4 +45,8 @@ Przyznanie ról pozostałym członkom zespołu i autoryzacja dostępu do utworzo
 Przechowywanie plików potrzebnych do nauczenia modelu oraz wszystkich plików związanych z działaniem backendu (Azure Machine Learning).
 
 # Schemat działania rozwiązania
+Użytkownik przechodzi do serwisu webowego hostowanego na Azure: https://python-webapp-tumor-app-2.azurewebsites.net/
+![Image](images/webpage.png)
+Za pomocą przycisku przeglądaj wybiera zdjęcie zapisane na swoim urządzeniu. Natępnie, po kliknięciu przycisku Submit zostaje ono przesłane w zakodowanej do json postaci na endpoint udostępniany przez wytrenowny model ML. Serwis otrzymuje przewidzony resultat i wyświetla go użytkownikowi na ekranie.
+
 
