@@ -34,9 +34,7 @@ Bazę zdjęć nowotworów używaną w aplikacji można znaleźć na stronie: htt
 ### Strona internetowa
 Strona internetowa powstała z wykorzystaniem frameworka Flask - implementacja wykonana została w języku Python. Pełen kod do implementacji znajduje się
 w tym repozytorium pod nazwą tumor_detection_web_app. Podjęta została próba uruchomienia aplikacji w Web App. Z powodu braku uprawnień nie udało utworzyć Web App
-w zasobach grupy. Z tego względu przetestowano podejście lokalne zakończone powodzeniem. Do podejścia lokalnego wykorzystano rozszerzenie Azure w Visual Studio oraz 
-połączenie z Github. Istnieje również możliwość uruchomienia aplikacji na utworzonej wcześcniej maszynei wirtualnej. Z racji braku możliwości utworzenia jakichkolwiek zasobów 
-nie zostało to przetestowane.
+w zasobach grupy. Została postawiona na podstawie forka kodu z githuba na innej subskrypcji. Jest dostęna pod adresem https://python-webapp-tumor-app-2.azurewebsites.net/.
 
 ### Azure Active Directory
 Przyznanie ról pozostałym członkom zespołu i autoryzacja dostępu do utworzonego endpointa.
