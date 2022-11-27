@@ -7,7 +7,7 @@ storzenia apliacjkacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten 
 
 # Autorzy: 
 * Lidia Łachman
-* Piotr Klepacki
+* [Piotr Klepacki](https://github.com/Klepackp)
 * Mateusz Smoliński
 
 # Architektura aplikacji w Azure
@@ -18,6 +18,10 @@ storzenia apliacjkacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten 
 
 Użytkownik wchodzi na stronę internetową. Następnie wgrywa obraz, który podlega klasyfikacji. Wynik klasyfikacji zwrócony zostaje na stronie internetowej w postaci 
 stwierdzenia nowotowru lub jego braku.
+
+## Diagram architektury serwisów Azure
+
+![Image](images/architecture_diagram.png)
 
 ## Wybrany stos technologiczny
 
