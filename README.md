@@ -8,6 +8,8 @@ storzenia apliacjkacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten 
 # Autorzy: 
 * Lidia Łachman
 * Piotr Klepacki
+* Mateusz Smoliński
+
 # Architektura aplikacji w Azure
 
 ## Diagram przypadków użycia
