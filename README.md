@@ -6,9 +6,9 @@ Niewątpliwie każdy wie jak ważna dziedziną jest medycyna. Wspieranie jej sta
 storzenia apliacjkacji pomocnej wykrywającej guzy. Aplikacja ma usprawnić ten proces oraz zapewniać jego niezawodność.
 
 # Autorzy: 
-* Lidia Łachman
+* [Lidia Łachman](https://github.com/LidiaLachman)
 * [Piotr Klepacki](https://github.com/Klepackp)
-* Mateusz Smoliński
+* [Mateusz Smoliński](https://github.com/Norsien)
 
 # Architektura aplikacji w Azure
 
